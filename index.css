@@ -1,0 +1,10 @@
+img {
+  width: 10%;
+  transition: width 1s ease-in-out;
+}
+
+
+.big {
+  width: 12%;
+  height: 12%;
+}
